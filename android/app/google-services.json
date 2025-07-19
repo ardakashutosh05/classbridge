@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422934467381",
+    "project_id": "classbridge-5d13c",
+    "storage_bucket": "classbridge-5d13c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422934467381:android:6a2812425d0779c426327c",
+        "android_client_info": {
+          "package_name": "com.example.classbridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsS4FpFqHxueQhp-YBcBCIEoIgK6IntBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
